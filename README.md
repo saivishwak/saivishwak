@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently working as a Software Engineer at LinkedPhone. Buidling scalable AI framework for telecommunication and Intelligent Appointment scheduling applications.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Decentralized Internet, Distributed Systems, Blockchain, Neuroscience and Psychology.\
-✍️ &nbsp;In my free time, I read neuroscience and pyschology book and pursue Music as a hobbie/side hustle.\
+✍️ &nbsp;In my free time, I read neuroscience and pyschology books and pursue Music as a hobbie/side hustle.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at saivishwak40@gmail.com! I'll try to respond as soon as I can.
 
