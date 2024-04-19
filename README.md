@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently working as a Software Engineer at ServiceNow.
+🎓 &nbsp;I'm currently working as a Senior Software Engineer at ServiceNow.
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Decentralized Internet, Distributed Systems, Blockchain, Neuroscience and Psychology.\
 ✍️ &nbsp;In my free time, I read neuroscience and pyschology books and pursue Music as a hobbie/side hustle.\
 💬 &nbsp;Feel free to reach out to me for any tech related stuff, or just for some interesting discussion.\
