@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!--
 **saivishwak/saivishwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,18 @@ Here are some ideas to get you started:
 💬 &nbsp;Feel free to reach out to me for any tech related stuff, or just for some interesting discussion over Linkedin.\
 ✉️ &nbsp;You can shoot me an email at saivishwak40@gmail.com! I'll try to respond as soon as I can.
 
-### 🛠 &nbsp;Tech Stack
+### Connect with me:
+
+[![website](https://img.icons8.com/color/24/000000/domain.png)](https://saivishwak.github.io/portfolio#profile#gh-light-mode-only)
+[![website](https://img.icons8.com/color/24/000000/domain.png)](https://saivishwak.github.io/portfolio#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![X](https://img.icons8.com/color/24/000000/twitter--v1.png)](https://x.com/sai_vishwak_k#gh-light-mode-only)
+[![X](https://img.icons8.com/color/24/000000/twitter--v1.png)](https://x.com/sai_vishwak_k#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/sai-vishwak-korimerla#gh-light-mode-only)
+[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/sai-vishwak-korimerla#gh-dark-mode-only)
+
+### Languages and Tools :
 
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
@@ -39,19 +50,6 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/saivishwak">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saivishwak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saivishwak&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<!--a href="https://bytebook.co"><img src="https://img.shields.io/badge/-bytebook.co-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a-->
-<a href="https://www.linkedin.com/in/sai-vishwak-korimerla-020b97134/"><img src="https://img.shields.io/badge/-k%20sai%20vishwak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saivishwak40@gmail.com"><img src="https://img.shields.io/badge/-saivishwak40@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+-----
+### GitHub Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivishwak&layout=compact)](https://github.com/saivishwak?tab=repositories)
