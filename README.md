@@ -46,6 +46,18 @@
 
 ---
 
+<table>
+  <!-- <tr>
+    <td colspan = "2"><img width=100% src="https://github-profile-trophy.vercel.app/?username=saivishwak&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></td>
+  </tr>
+	<tr>
+		<td colspan = "2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saivishwak&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></td>
+	</tr> -->
+	<tr>
+		<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivishwak&theme=nord_dark">/td>
+	</tr>
+	</table>
+
 ### 📚 Learning & Building
 
 - 📘 Currently exploring: **autonomous agents on edge**, **LLM memory systems**, **VLA + tool-use pipelines**
