@@ -10,7 +10,7 @@
 
 - 🧠 I'm passionate about building intelligent systems that scale.
 - 💡 Exploring the convergence of **AI agents**, **OS-level automation**, and **edge computing**.
-- 🛠️ Currently building [**LiquidOS**](https://github.com/liquidos-ai) – **Intelligence for Edge**.
+- 🛠️ Currently building [**LiquidOS**](https://github.com/liquidos-ai) – **A Secure and Performant Runtime for Autonomous AI Agents**.
 - 🔍 I love working across the stack — from low-level systems to high-level AI architectures.
 - 📈 Research interests: **LLM Agents**, **Scientific ML**, **Memory Architectures**, and **Differentiable Programming**.
 
@@ -38,7 +38,7 @@
 
 ### 🚀 Highlights & Projects
 
-- 🧠 **[LiquidOS](https://github.com/liquidos-ai)** — An AI-native OS where agents are the first-class citizens.
+- 🧠 **[LiquidOS](https://github.com/liquidos-ai)** — A Secure and Performant Runtime for Autonomous AI Agents.
 - 🪐 **[Bolt](http://github.com/saivishwak/bolt)** - Built a custom language frontend in Rust with LLVM IR backend.
 - 🖼️ [**SegNet DICOM Viewer**](https://github.com/saivishwak/segnet) - Built an **DICOM viewer** for medical imaging with segmentation support — merging CV + healthcare.
 - 🧮 Developed a scientific computing library in Rust with flexible backend support.
