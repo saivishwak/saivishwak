@@ -1,74 +1,55 @@
-<h1 align="center">Hi there! 👋 I'm Sai Vishwak</h1>
+<div align="center">
 
-<p align="center">
-  <em>AI Researcher • Systems Builder • Rustacean • Open Source Advocate</em>
-</p>
+# Sai Vishwak Korimerla
 
----
+**AI Researcher · Systems Engineer · Open Source Builder**
 
-### 👨‍💻 About Me
+Building intelligent systems from low-level runtimes to autonomous agents.
 
-- 🧠 I'm passionate about building intelligent systems that scale.
-- 💡 Exploring the convergence of **AI agents**, **OS-level automation**, and **edge computing**.
-- 🛠️ Currently building [**LiquidOS**](https://github.com/liquidos-ai) – **A Secure and Performant Runtime for Autonomous AI Agents**.
-- 🔍 I love working across the stack — from low-level systems to high-level AI architectures.
-- 📈 Research interests: **LLM Agents**, **Scientific ML**, **Memory Architectures**, and **Differentiable Programming**.
+[LinkedIn](https://www.linkedin.com/in/sai-vishwak-korimerla/) · [Email](mailto:saivishwak40@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ Core Tech Stack
+### About
 
-#### 💻 Languages & Platforms
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+I'm an AI researcher and systems engineer working at the intersection of
+**autonomous agents, systems programming, and edge computing**.
 
-#### 🔍 AI & Tooling
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=huggingface)
-![ONNX](https://img.shields.io/badge/-ONNX-05122A?style=flat&logo=onnx)
+Currently building **[AutoAgents](https://github.com/liquidos-ai/AutoAgents)**
+and **[Odyssey](https://github.com/liquidos-ai/Odyssey)** — open-source
+infrastructure for building and running AI agents in Rust.
 
-#### 🧰 Systems & Infra
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+My research interests include agent memory, scientific machine learning,
+differentiable programming, and online learning for robotics.
 
----
+### Selected Work
 
-### 🚀 Highlights & Projects
+| Project | Description |
+| :--- | :--- |
+| **[AutoAgents](https://github.com/liquidos-ai/AutoAgents)** | A modular Rust framework for building and coordinating AI agents |
+| **[Odyssey](https://github.com/liquidos-ai/Odyssey)** | A Rust runtime for packaging and running agents as portable bundles |
+| **[SegNet](https://github.com/saivishwak/segnet)** | A DICOM viewer with medical image segmentation support |
 
-- 🧠 **[LiquidOS](https://github.com/liquidos-ai)** — A Secure and Performant Runtime for Autonomous AI Agents.
-- 🪐 **[Bolt](http://github.com/saivishwak/bolt)** - Built a custom language frontend in Rust with LLVM IR backend.
-- 🖼️ [**SegNet DICOM Viewer**](https://github.com/saivishwak/segnet) - Built an **DICOM viewer** for medical imaging with segmentation support — merging CV + healthcare.
-- 🧮 Developed a scientific computing library in Rust with flexible backend support.
-- 🤖 Research in agent memory architectures and online learning for robotics.
+
+### Stack
+
+**Languages** &nbsp; Rust · Go · Python · C++ · JavaScript  
+**AI & ML** &nbsp; PyTorch · Transformers · ONNX  
+**Systems** &nbsp; Linux · Docker · LLVM
+
+### Current Focus
+
+- Autonomous agents on edge devices
+- Memory systems for LLM agents
+- Vision-language-action models and tool-use pipelines
+- Agent orchestration and graph-based reasoning
 
 ---
 
 <table>
-  <!-- <tr>
-    <td colspan = "2"><img width=100% src="https://github-profile-trophy.vercel.app/?username=saivishwak&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></td>
-  </tr>
-	<tr>
-		<td colspan = "2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saivishwak&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></td>
-	</tr> -->
 	<tr>
 		<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivishwak&theme=nord_dark"></td>
 	</tr>
-	</table>
-
-### 📚 Learning & Building
-
-- 📘 Currently exploring: **autonomous agents on edge**, **LLM memory systems**, **VLA + tool-use pipelines**
-- 🛠️ Next up: **agent orchestration engine** and **multi-agent graph reasoning layer**
-
----
-
-
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-vishwak-korimerla/)
-- 📨 Reach me at: **saivishwak40@gmail.com**
-
----
+</table>
